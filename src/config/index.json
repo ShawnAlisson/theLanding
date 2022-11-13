@@ -1,0 +1,82 @@
+{
+    "company": {
+      "name": "Portefeuille",
+      "logo": "/assets/images/logo.png"
+    },
+    "navigation": [
+      {
+        "name": "Features",
+        "href": "features"
+      },
+  
+      {
+        "name": "Download",
+        "href": "download"
+      },
+      {
+        "name": "About",
+        "href": "about"
+      }
+    ],
+    "main": {
+      "title": "Money and Crypto Management App",
+      "subtitle": "for iOS & macOS.",
+      "description": "You can easily manage your assets with Portefeuille. With this app, you can track all of your incomes and outcomes, and also you will be able to manage and monitor your crypto investments.",
+      "img": "/assets/images/main_pic.png",
+      "primaryAction": {
+        "text": "Download",
+        "href": "download"
+      }
+    },
+    "download": {
+      "title": "Download Portefeuille for macOS and iOS",
+      "items": [
+        {
+          "title": "Download latest version for macOS",
+          "description": "",
+          "img": "/assets/images/macOS.png"
+        },
+        {
+          "title": "Download latest version for iOS",
+          "description": "",
+          "img": "/assets/images/iOS.png"
+        }
+      ]
+    },
+    "features": {
+      "title": "For macOS and iOS",
+      "subtitle": "Features of Portefeuille!",
+      "description": "",
+      "items": [
+        {
+          "name": "SwiftUI",
+          "description": "Built with native SwiftUI for macOS and iOS.",
+          "icon": "/assets/images/swift.svg"
+        },
+        {
+          "name": "Language and Currency",
+          "description": "Portefeuille supports multi-languages and currencies.",
+          "icon": "/assets/images/lang.svg"
+        },
+        {
+          "name": "Crypto",
+          "description": "In addition to the fiat currencies, there are more than 300 coins available on Portefeuille.",
+          "icon": "/assets/images/bitcoin.svg"
+        },
+        {
+          "name": "Open-source",
+          "description": "Portefeuille is completely open source and it's available on GitHub.",
+          "icon": "/assets/images/code.svg"
+        }
+      ]
+    },
+    "about": {
+      "socialMedia": {
+        "github": "https://github.com/ShawnAlisson/Portefeuille",
+        "telegram": "https://t.me/portefeuilleir",
+        "twitter": "",
+        "linkedin": ""
+      }
+    }
+  }
+  
