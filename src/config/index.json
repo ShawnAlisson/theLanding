@@ -74,9 +74,10 @@
       "socialMedia": {
         "github": "https://github.com/ShawnAlisson/Portefeuille",
         "telegram": "https://t.me/portefeuilleir",
-        "twitter": "",
+        "twitter": "https://twitter.com/portefeuille_ir",
         "linkedin": ""
-      }
+      },
+      "build": "Build (221116)"
     }
   }
   
