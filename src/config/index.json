@@ -1,7 +1,7 @@
 {
     "company": {
       "name": "Portefeuille",
-      "logo": "/assets/images/logo.png"
+      "logo": "./assets/images/logo.png"
     },
     "navigation": [
       {
@@ -22,7 +22,7 @@
       "title": "Money and Crypto Management App",
       "subtitle": "for iOS & macOS.",
       "description": "You can easily manage your assets with Portefeuille. With this app, you can track all of your incomes and outcomes, and also you will be able to manage and monitor your crypto investments.",
-      "img": "/assets/images/main_pic.png",
+      "img": "./assets/images/main_pic.png",
       "primaryAction": {
         "text": "Download",
         "href": "download"
@@ -34,12 +34,12 @@
         {
           "title": "Download latest version for macOS",
           "description": "",
-          "img": "/assets/images/macOS.png"
+          "img": "./assets/images/macOS.png"
         },
         {
           "title": "Download latest version for iOS",
           "description": "",
-          "img": "/assets/images/iOS.png"
+          "img": "./assets/images/iOS.png"
         }
       ]
     },
@@ -51,22 +51,22 @@
         {
           "name": "SwiftUI",
           "description": "Built with native SwiftUI for macOS and iOS.",
-          "icon": "/assets/images/swift.svg"
+          "icon": "./assets/images/swift.svg"
         },
         {
           "name": "Language and Currency",
           "description": "Portefeuille supports multi-languages and currencies.",
-          "icon": "/assets/images/lang.svg"
+          "icon": "./assets/images/lang.svg"
         },
         {
           "name": "Crypto",
           "description": "In addition to the fiat currencies, there are more than 300 coins available on Portefeuille.",
-          "icon": "/assets/images/bitcoin.svg"
+          "icon": "./assets/images/bitcoin.svg"
         },
         {
           "name": "Open-source",
           "description": "Portefeuille is completely open source and it's available on GitHub.",
-          "icon": "/assets/images/code.svg"
+          "icon": "./assets/images/code.svg"
         }
       ]
     },
@@ -77,7 +77,7 @@
         "twitter": "https://twitter.com/portefeuille_ir",
         "linkedin": ""
       },
-      "build": "Build (221116)"
+      "build": "Build (230101)"
     }
   }
   
